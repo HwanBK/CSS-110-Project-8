@@ -1,0 +1,8 @@
+Data for river: Rio Grande
+Data for month: 12
+Data for pollutant: Fertilizer
+
+Number of readings  : 23
+Average of readings : 0.171
+Lowest reading      : 0.085
+Highest reading     : 0.335
